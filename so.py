@@ -1,3 +1,5 @@
+#수정사항을 위해 주석 추가 
+
 import requests
 from bs4 import BeautifulSoup
 
